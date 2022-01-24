@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   infinite_listview: ^1.1.0
+  flutter_keyboard_visibility: ^5.1.1
 
 flutter:
   uses-material-design: true
